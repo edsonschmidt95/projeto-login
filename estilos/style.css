@@ -25,7 +25,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     width: 250px;
     height: 500px;
     border-radius: 20px;
@@ -44,4 +44,5 @@
  section#login > div#formulario{
     display: block;
     padding: 10px;
+    
  }
